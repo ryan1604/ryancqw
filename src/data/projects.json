@@ -1,0 +1,211 @@
+{
+  "projects": [
+    {
+      "name": "Finance App",
+      "description": "This app allows users to track their financials, with an interactive dashboard, changeable chart types, and intuitive filters",
+      "image": "/finance-app.jpg",
+      "tags": [
+        "React",
+        "TailwindCSS",
+        "TypeScript",
+        "NextJS",
+        "HonoJS",
+        "Drizzle",
+        "Postgres",
+        "NeonDB",
+        "Tanstack React Query",
+        "Stripe",
+        "Clerk",
+        "shadcn"
+      ],
+      "links": [
+        {
+          "name": "GitHub",
+          "href": "https://github.com/ryan1604/finance-app"
+        },
+        {
+          "name": "Website",
+          "href": "https://finance-app-three-flame.vercel.app/"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "name": "AI SAAS App",
+      "description": "A web application that offers a variety of AI-powered features for creators. Features include chatbot conversations, video generation, image generation, code generation, and music generation",
+      "image": "/ai-saas.jpg",
+      "tags": ["NextJS", "React", "TypeScript", "TailwindCSS", "Prisma", "Crisp", "Clerk", "Stripe", "shadcn"],
+      "links": [
+        {
+          "name": "GitHub",
+          "href": "https://github.com/ryan1604/ai-saas"
+        },
+        {
+          "name": "Website",
+          "href": "https://ai-saas-iota-eight.vercel.app/"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "name": "Watchlist",
+      "description": "Create personalised watchlists to track your favourite shows, helping you to stay organised",
+      "image": "/watchlist.jpg",
+      "tags": ["NextJS", "React", "JavaScript", "TailwindCSS", "Supabase"],
+      "links": [
+        {
+          "name": "GitHub",
+          "href": "https://github.com/ryan1604/watchlist"
+        },
+        {
+          "name": "Website",
+          "href": "https://watchlist-zeta-one.vercel.app/"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "name": "AI Agent",
+      "description": "Python AI Agent that has note taking features and allows users to query PDF and CSV files using Retrieval Augmented Generation (RAG)",
+      "image": "/project-placeholder.jpg",
+      "tags": ["Python", "RAG", "LlamaIndex"],
+      "links": [
+        {
+          "name": "GitHub",
+          "href": "https://github.com/ryan1604/ai-agent"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "name": "Sign Language Detection",
+      "description": "Real-time Sign Language detection that uses Long Short-Term Memory (LSTM) networks to process a sequence of hand movements",
+      "image": "/project-placeholder.jpg",
+      "tags": ["Python", "TensorFlow", "Mediapipe", "Computer Vision", "LSTM"],
+      "links": [
+        {
+          "name": "GitHub",
+          "href": "https://github.com/ryan1604/sign-language-detection"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "name": "Predict NBA games",
+      "description": "Predict outcomes of NBA games using ridge classifier and used Playwright for scraping data on NBA games",
+      "image": "/project-placeholder.jpg",
+      "tags": ["Python", "Playwright", "Ridge Classifier", "NBA"],
+      "links": [
+        {
+          "name": "GitHub",
+          "href": "https://github.com/ryan1604/predict-nba-games"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "name": "MNIST Digit Recogniser",
+      "description": "Accurately identifies handwritten numbers from 0 to 9 using Convolutional Neural Networks (CNN)",
+      "image": "/project-placeholder.jpg",
+      "tags": ["Python", "TensorFlow", "CNN"],
+      "links": [
+        {
+          "name": "GitHub",
+          "href": "https://github.com/ryan1604/mnist-handwritten-digit-recogniser"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "name": "Stock Trading Bot",
+      "description": "Stock Trading Bot that uses financial sentiment analysis to make trading decisions based on financial news",
+      "image": "/project-placeholder.jpg",
+      "tags": ["Python", "FinBERT", "Sentiment Analysis", "PyTorch", "Transformers", "Stocks"],
+      "links": [
+        {
+          "name": "GitHub",
+          "href": "https://github.com/ryan1604/trading-bot"
+        }
+      ],
+      "featured": true
+    },
+    {
+      "name": "Sudoku Solver",
+      "description": "Sudoku Solver using backtracking",
+      "image": "/project-placeholder.jpg",
+      "tags": ["Python"],
+      "links": [
+        {
+          "name": "GitHub",
+          "href": "https://github.com/ryan1604/sudoku-solver"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "name": "Password Manager",
+      "description": "Simple CLI password manager using cryptography",
+      "image": "/project-placeholder.jpg",
+      "tags": ["Python", "Cryptography"],
+      "links": [
+        {
+          "name": "GitHub",
+          "href": "https://github.com/ryan1604/password-manager"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "name": "RTOS Remote Controlled Robot",
+      "description": "Robotic car project built using real-time operating system (RTOS) and controlled via a controller",
+      "image": "/project-placeholder.jpg",
+      "tags": ["C", "CMSIS-RTOS2", "FRDM-KL25Z", "ESP32"],
+      "links": [
+        {
+          "name": "GitHub",
+          "href": "https://github.com/ryan1604/CG2271"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "name": "Basketball Jam",
+      "description": "2D singleplayer basketball game against an AI, with various difficulty levels, programmed on an FPGA",
+      "image": "/project-placeholder.jpg",
+      "tags": ["Verilog"],
+      "links": [
+        {
+          "name": "GitHub",
+          "href": "https://github.com/ryan1604/EE2026"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "name": "CLI Financial Planner App",
+      "description": "CLI app for managing finances with many features, such as managing incomes, expenses, and budgets",
+      "image": "/project-placeholder.jpg",
+      "tags": ["Java"],
+      "links": [
+        {
+          "name": "GitHub",
+          "href": "https://github.com/AY2324S1-CS2113-T18-2/tp"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "name": "Remote Controlled Robot",
+      "description": "Robotic car that can mapping its surroundings using Lidar sensor, controlled by a laptop",
+      "image": "/project-placeholder.jpg",
+      "tags": ["C++", "Arduino", "Raspberry Pi", "ROS"],
+      "links": [
+        {
+          "name": "GitHub",
+          "href": "https://github.com/ryan1604/CG2111A"
+        }
+      ],
+      "featured": false
+    }
+  ]
+}

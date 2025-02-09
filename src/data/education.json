@@ -1,0 +1,13 @@
+{
+  "education": [
+    {
+      "name": "National University of Singapore",
+      "href": "https://www.nus.edu.sg/",
+      "title": "Bachelor of Engineering in Computer Engineering",
+      "logo": "/nus-logo.png",
+      "start": "Aug 2022",
+      "end": "",
+      "description": ["GPA: 4.59/5.0", "Deans' List for AY24/25 Semester 1"]
+    }
+  ]
+}
