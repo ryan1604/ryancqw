@@ -59,7 +59,7 @@ const ProjectCard = ({ project }: Props) => {
                   href={href}
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="flex items-center gap-x-2 text-xs text-white dark:text-gray-900 px-2 py-1 rounded-md bg-gray-900 dark:bg-white hover:bg-gray-700"
+                  className="flex items-center gap-x-2 text-xs text-white dark:text-gray-900 px-2 py-1 rounded-md bg-gray-900 dark:bg-white hover:bg-gray-700 dark:hover:bg-gray-300"
                 >
                   {logoMap[name as logoName]}
                   {name}

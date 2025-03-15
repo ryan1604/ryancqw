@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 
-import { RxDownload } from "react-icons/rx";
 import { RxGithubLogo } from "react-icons/rx";
 import { RxEnvelopeClosed } from "react-icons/rx";
 import { RxLinkedinLogo } from "react-icons/rx";
@@ -22,13 +21,6 @@ const About = () => {
           Third year Computer Engineering Student at the National University of Singapore
         </p>
         <div className="flex items-center gap-4 justify-center md:justify-start mt-4">
-          <a
-            href="/Resume_RyanChuaFeb25.pdf"
-            download="Resume_RyanChuaFeb25.pdf"
-            className="flex items-center gap-2 bg-gray-100 dark:bg-gray-800 px-4 py-2 rounded-3xl hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors border-1"
-          >
-            Resume <RxDownload className="text-lg" />
-          </a>
           <div className="flex gap-4">
             <Link to="https://github.com/ryan1604" target="_blank" rel="noopener noreferrer" className="text-2xl">
               <RxGithubLogo />
