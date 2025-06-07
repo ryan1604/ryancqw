@@ -18,7 +18,7 @@ const About = () => {
           <RxGlobe /> Singapore
         </p>
         <p className="text-md text-gray-600 dark:text-gray-400">
-          Third year Computer Engineering Student at the National University of Singapore
+          Final year Computer Engineering Student at the National University of Singapore
         </p>
         <div className="flex items-center gap-4 justify-center md:justify-start mt-4">
           <div className="flex gap-4">

@@ -6,8 +6,12 @@
       "title": "Machine Learning Intern",
       "logo": "/dso-logo.png",
       "start": "Jan 2025",
-      "end": "",
-      "description": []
+      "end": "May 2025",
+      "description": [
+        "Developed an optical-to-SAR image translation model using Generative Adversarial Networks (GANs), self-attention, and semantic labels to generate realistic SAR images and address optical bias in previous models.",
+        "Accomplished improved model performance as measured by quantitative (PSNR, SSIM, FID) and qualitative evaluations by incorporating self-attention and semantic labels into the GAN architecture.",
+        "Conducted extensive research on various deep learning techniques, including GAN architectures (pix2pix, cycleGAN), self-attention mechanisms, and image segmentation methods, to inform model development and optimization."
+      ]
     }
   ]
 }
