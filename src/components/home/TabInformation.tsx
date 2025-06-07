@@ -37,7 +37,7 @@ const TabInformation = ({ information }: Props) => {
           <h2 className="font-semibold leading-none">{name}</h2>
           {title && <p className="text-sm text-gray-500 dark:text-gray-400">{title}</p>}
           {description && (
-            <ul className="ml-4 list-outside list-disc leading-none">
+            <ul className="ml-4 list-outside list-disc leading-none pr-8 text-gray-700 dark:text-gray-300">
               {description.map((desc, i) => (
                 <li key={i} className="text-sm">
                   {desc}
